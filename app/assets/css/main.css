@@ -4,3 +4,8 @@
   --muted: 220 10% 45%;
   --border: 220 10% 85%;
 }
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
