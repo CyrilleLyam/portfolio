@@ -20,7 +20,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "^7.0.0",
     "@iconify-json/lucide": "^1.2.84",
-    "@unocss/eslint-plugin": "^66.5.10",
+    "@unocss/eslint-plugin": "^66.6.0",
     "@unocss/nuxt": "^66.5.12",
     "eslint": "^9.39.2",
     "lint-staged": "^16.2.7",
